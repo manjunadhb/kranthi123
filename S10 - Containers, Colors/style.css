@@ -1,0 +1,47 @@
+/* body {
+  background-color: rebeccapurple;
+} */
+
+.playerPic {
+  width: 300px;
+}
+
+div {
+  display: inline-block;
+  text-align: center;
+  margin: 20px;
+  border: 20px dashed yellowgreen;
+  border-radius: 50px;
+  box-shadow: 10px 10px 10px black;
+  width: 350px;
+  height: 600px;
+  overflow: hidden;
+}
+
+div p {
+  text-align: justify;
+  padding: 20px;
+}
+
+#dhoniDiv {
+  background-color: deepskyblue;
+  width: 350px;
+}
+
+#rohitDiv {
+  background-color: deeppink;
+  width: 350px;
+}
+
+#viratDiv {
+  background-color: lightsalmon;
+  width: 350px;
+}
+
+nav {
+  background-color: bisque;
+  font-size: 2rem;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px black;
+}
